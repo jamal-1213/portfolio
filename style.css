@@ -492,6 +492,12 @@ span{
         margin: 30px;
     }
 }
+@media only screen and (max-width:790px){
+    .project-container a{
+        width: 100%;
+        margin: 30px;
+    }
+}
 /*======= project end ============*/
 
 /*======== contact ========*/
@@ -619,7 +625,7 @@ span{
 }
 
 
-/*========== breakpoint =========*/
+/*========== Responsive =========*/
 @media only screen and (max-width:1200px){
     html{
         font-size: 55%;
